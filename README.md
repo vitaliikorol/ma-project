@@ -1,3 +1,6 @@
 # ma-project
-[Preview](https://github.com/vitaliikorol/ma-project) <br>
-[Pull Request](https://github.com/vitaliikorol/ma-project/pull/1/files)
+<ul>
+  
+<li> [Preview](https://github.com/vitaliikorol/ma-project)</li> <br> 
+<li> [Pull Request](https://github.com/vitaliikorol/ma-project/pull/1/files)</li>
+</ul>
